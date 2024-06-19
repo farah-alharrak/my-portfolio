@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: [ "DevOps Engineer at Oracle"],
+        strings: [ "Cloud DevOps Engineer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
